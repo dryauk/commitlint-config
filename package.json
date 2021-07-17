@@ -27,12 +27,20 @@
     "lint": "yarn lint:commit",
     "lint:commit": "commitlint --from=$( git rev-list --tags --max-count=1 )"
   },
+  "dependencies": {
+    "@commitlint/config-conventional": "^12.1.4"
+  },
+  "peerDependencies": {
+    "@commitlint/cli": ">=12.0.0 <13.0.0"
+  },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
-    "@commitlint/config-conventional": "^12.1.4",
     "@dryauk/semantic-release-config": "^1.0.0",
     "husky": "^7.0.1",
     "semantic-release": "^17.4.4"
+  },
+  "commitlint": {
+    "extends": "./index.js"
   },
   "release": {
     "extends": "@dryauk/semantic-release-config"
