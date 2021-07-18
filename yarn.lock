@@ -160,10 +160,10 @@
   dependencies:
     chalk "^4.0.0"
 
-"@dryauk/semantic-release-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://npm.pkg.github.com/download/@dryauk/semantic-release-config/1.0.0/75d3cc58c3a682faccd9166318ee94632b6278fa6d645809d1895ad20d854cf3#2b18c8981c3651ceca69117aec0e2ed8fefa2407"
-  integrity sha512-41sSPDAEoakQeg7WveGS90EzNndgdySnYyH+bGrjd3oZrWYA1BHvx+tDFGIJ7rLQds4fZKDwG0/yMeR7eX57BQ==
+"@dryauk/semantic-release-config@^1.1.0":
+  version "1.1.0"
+  resolved "https://npm.pkg.github.com/download/@dryauk/semantic-release-config/1.1.0/f3f01a41c0e3a04247bf49913206dd4ace9c17b7f2ef2f370d8e604e4d358fb4#9ac2dd4f24ce47443988feda80f9a98016c7239f"
+  integrity sha512-qClrC7bXKaWB6qxpMuzvarYPC0R7fEibMFazQ5EPA+WZoAJjVsUYOWr9ZXS/l3cReCFFOmKD/azs7u24l5JSDA==
   dependencies:
     "@semantic-release/changelog" "^5.0.1"
     "@semantic-release/git" "^9.0.0"
