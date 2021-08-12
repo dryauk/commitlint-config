@@ -28,13 +28,13 @@
     "lint:commit": "commitlint --from=$( git rev-list --tags --max-count=1 )"
   },
   "dependencies": {
-    "@commitlint/config-conventional": "^12.1.4"
+    "@commitlint/config-conventional": "^13.1.0"
   },
   "peerDependencies": {
-    "@commitlint/cli": "^12"
+    "@commitlint/cli": "^13"
   },
   "devDependencies": {
-    "@commitlint/cli": "^12.1.4",
+    "@commitlint/cli": "^13.1.0",
     "@dryauk/semantic-release-config": "^1.1.0",
     "husky": "^7.0.1",
     "semantic-release": "^17.4.4"
