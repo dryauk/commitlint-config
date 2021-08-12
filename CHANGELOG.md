@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dryauk/commitlint-config/compare/v1.1.0...v2.0.0) (2021-08-12)
+
+
+### chore
+
+* **deps:** bump @commitlint/** to 13.1.0 ([44a9bde](https://github.com/dryauk/commitlint-config/commit/44a9bde5af35e2353728ed88dab875e592923a3b))
+
+
+### BREAKING CHANGES
+
+* **deps:** Require @commitlint/cli@^13
+
 # [1.1.0](https://github.com/dryauk/commitlint-config/compare/v1.0.0...v1.1.0) (2021-07-18)
 
 
