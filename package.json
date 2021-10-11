@@ -34,7 +34,7 @@
     "@commitlint/cli": "^13"
   },
   "devDependencies": {
-    "@commitlint/cli": "^13.2.0",
+    "@commitlint/cli": "^13.2.1",
     "@dryauk/semantic-release-config": "^1.1.0",
     "husky": "^7.0.2",
     "semantic-release": "^17.4.7"
