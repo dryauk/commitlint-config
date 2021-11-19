@@ -28,7 +28,7 @@
     "lint:commit": "commitlint --from=$( git rev-list --tags --max-count=1 )"
   },
   "dependencies": {
-    "@commitlint/config-conventional": "^13.2.0"
+    "@commitlint/config-conventional": "^15.0.0"
   },
   "peerDependencies": {
     "@commitlint/cli": "^15"
