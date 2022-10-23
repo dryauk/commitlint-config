@@ -1,6 +1,6 @@
 {
   "name": "@dryauk/commitlint-config",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "commitlint shareable configuration",
   "author": "DryAuk (https://github.com/dryauk)",
   "homepage": "https://github.com/dryauk/commitlint-config#readme",
