@@ -35,9 +35,9 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
-    "@dryauk/semantic-release-config": "^3.0.0",
+    "@dryauk/semantic-release-config": "^4.0.0",
     "husky": "^8.0.1",
-    "semantic-release": "^19.0.5"
+    "semantic-release": "^22.0.11"
   },
   "commitlint": {
     "extends": "./index.js"
